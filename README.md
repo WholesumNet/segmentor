@@ -23,9 +23,9 @@ Docker runtime is needed as it is used to run `Risc0` containers. This awesome [
 Usage: segmentor [OPTIONS] --elf [ELF] --out-path [OUT_PATH]
 
 Options:
-  -e, --elf [ELF]            
-  -p, --po2 [PO2]            segment limit size [default: 20]
-  -o, --out-path [OUT_PATH]  path to write segment blobs to
+  -e, --elf &lt;ELF&lt;            
+  -p, --po2 &lt;PO2&lt;            segment limit size [default: 20]
+  -o, --out-path &lt;OUT_PATH&gt;  path to write segment blobs to
   -h, --help                 Print help
   -V, --version              Print version
 </pre>
